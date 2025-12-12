@@ -13,8 +13,8 @@ n = 0:N-1, it is based on how many 36-min intervals
 k = 0:2 it presents the 2 minutes interval ID in the 6 minutes period.	
 
 Attacking nodes:
-Node 7 VN Attack
-Node 9 Rank Attack
+Node 7 VN Attack, 
+Node 9 Rank Attack, 
 Node 6 DIS attack
 
 
